@@ -14,6 +14,8 @@ I'm assuming you know how to program, if you don't then that might be a bit of a
 - Don't break any actual laws! We follow UK law, however not every country has the same legal system, so make sure to follow yours!
 - If you are using AI for something please just make sure its got proper instructions on what to do, and make sure its output is safe and error-free. Please proof-read it just to be sure.
 
+If you wish to work in-game then we also have lots of things to work on, such as _Project Angel_. We need people for that.
+
 ## Security
 If you find a security vulrability, report it privately to @AxoWasTaken. You can contact him using his email address, [AxoWasTaken@outlook.com](mailto:AxoWasTaken@AxoWasTaken). But it doesn't really matter if you send it to the main Axos Union email address anyway, [AxosUnion@outlook.com](mailto:AxosUnion@AxoWasTaken).
 
